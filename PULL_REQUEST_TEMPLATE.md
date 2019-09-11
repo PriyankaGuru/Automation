@@ -4,4 +4,4 @@
 - [ ] I have run whole class on the latest Chrome browser, all tests from class are passing  
 - [ ] I have run whole class on the latest Firefox browser, all tests from class are passing  
 - [ ] I am just enabling all checkboxes and do not really check anything  
-- [ ] I have run whole class on RSSO enabled setup 
+ 
